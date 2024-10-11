@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: a60e69a32a0245a4e8292624bc0531c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 118
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.62974113, y: 0.9901352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b458b036ee0c47b7c592a8740483a
+      internalID: 175528338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 118
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6263628, y: 0.9824772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb75ac6f11d924ca89407c1c59e549
+      internalID: 1601502422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6598265, y: 0.99013555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aad5dda7a0d9947892d2bac48c6d27
+      internalID: 1833740171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 62
+        width: 36
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5255277, y: 1.0012748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525003d27c4b8104cbbd93a3bec1c4bd
+      internalID: -563438271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.38512468, y: 0.9901355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ab2dd8bb8e534680bf1577642369e
+      internalID: -1549669762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 59
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5668366, y: 0.9954625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d332ac0dc2da34b939138cecab2d53
+      internalID: 355092359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.64295584, y: 0.98523444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716dafe912dcd73488aa7e580d9ae605
+      internalID: 1350379474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enyd_0000-sheet Leg_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 38
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5677161, y: 0.99546266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421084d96f96104e90c6dbe757d31d6
+      internalID: -724351607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enyd_0000-sheet Leg_0: 175528338
+      Enyd_0000-sheet Leg_1: 1601502422
+      Enyd_0000-sheet Leg_2: 1833740171
+      Enyd_0000-sheet Leg_3: -563438271
+      Enyd_0000-sheet Leg_4: -1549669762
+      Enyd_0000-sheet Leg_5: 355092359
+      Enyd_0000-sheet Leg_6: 1350379474
+      Enyd_0000-sheet Leg_7: -724351607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
