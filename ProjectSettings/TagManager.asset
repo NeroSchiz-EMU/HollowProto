@@ -55,6 +55,9 @@ TagManager:
   - name: Foreground
     uniqueID: 1103677689
     locked: 0
+  - name: Foreground2
+    uniqueID: 143801535
+    locked: 0
   - name: Fadeout
     uniqueID: 2275122243
     locked: 0
