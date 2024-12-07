@@ -246,13 +246,13 @@ MonoBehaviour:
   isTriggered: 0
   offSprite: {fileID: 1067598020348513487}
   onSprite: {fileID: 1181076881094946830}
+  leverPulledClip: {fileID: 8300000, guid: a8c35c2e0a360d342beec12016a17110, type: 3}
   leverHitOnEvent:
     m_PersistentCalls:
       m_Calls: []
   leverHitOffEvent:
     m_PersistentCalls:
       m_Calls: []
-  leverPulledClip: {fileID: 8300000, guid: 5dc42a0f490063244b37ef9c89c558a0, type: 3}
 --- !u!1 &4226483002393815613
 GameObject:
   m_ObjectHideFlags: 0

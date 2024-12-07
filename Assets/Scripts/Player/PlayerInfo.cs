@@ -15,15 +15,15 @@ public class PlayerInfo : MonoBehaviour
     }
 
 
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.tag == "RespawnPoint")
-    //    {
-    //        transform.position = respawnPoint;
-    //    }
-    //    else if(collision.tag == "Checkpoint")
-    //    {
-    //        respawnPoint = transform.position;
-    //    }
-    //}
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "RespawnPoint")
+        {
+            transform.position = respawnPoint;
+        }
+        else if (collision.tag == "Checkpoint")
+        {
+            respawnPoint = transform.position;
+        }
+    }
 }
