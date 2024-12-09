@@ -356,7 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: Infinity
-  initialHealth: 2
+  initialHealth: 1
   maxHealth: Infinity
   healSoundClip: {fileID: 0}
   damageSoundClip: {fileID: 8300000, guid: a9306a397eda18742aeda51c3e7bc63f, type: 3}
@@ -382,7 +382,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 027789901a76851409360c4f58a78ff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialDirection: 0
+  initialDirection: 1
 --- !u!1 &2642598817260243253
 GameObject:
   m_ObjectHideFlags: 0

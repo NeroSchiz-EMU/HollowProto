@@ -9,6 +9,8 @@ TagManager:
   - Win
   - Checkpoint
   - RespawnPoint
+  - Boss Platform
+  - BossDrone
   layers:
   - Default
   - TransparentFX
@@ -19,7 +21,7 @@ TagManager:
   - Enemy
   - Player
   - Level
-  - 
+  - Boss Platforms
   - 
   - 
   - 
