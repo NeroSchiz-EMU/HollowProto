@@ -617,6 +617,7 @@ GameObject:
   - component: {fileID: 5418890079506633481}
   - component: {fileID: 5696955630415960355}
   - component: {fileID: 8506691394341961842}
+  - component: {fileID: 2186377253816298792}
   m_Layer: 7
   m_Name: Player
   m_TagString: Player
@@ -766,6 +767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5f7fe4e2ae30cc46ad3c6d93b1767db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LevelStart: {fileID: 0}
 --- !u!114 &7715951534518536224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -944,6 +946,7 @@ MonoBehaviour:
   hitbox: {fileID: 6038953713874241918}
   slashAnimationController: {fileID: 2011480784758930641}
   attackHitClip: {fileID: 8300000, guid: 4058bfb7d1cb9114d8d425c8c386940f, type: 3}
+  wooshSwordClip: {fileID: 0}
 --- !u!114 &1206665159246088771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -970,6 +973,7 @@ MonoBehaviour:
       m_Calls: []
   playerAnimationController: {fileID: 5696955630415960355}
   playerDeathTime: 2
+  playerDamageTime: 1
 --- !u!114 &22952925749558324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1078,6 +1082,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2186377253816298792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5322504204964788508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9bdb415f9b72a14bbfd5198076c4368, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  detectionRadius: 10
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!1 &5440441935169644671
 GameObject:
   m_ObjectHideFlags: 0
